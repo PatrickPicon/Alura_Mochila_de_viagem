@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Quer evitar aquele arrependimento de chegar no local da sua viagem e notar que esqueceu aquele item importante? Utilize o app Mochila de viagem para anotar todos aqueles items importantes e estar sempre preparado!
 
-- [Visite o projeto online] ()
+- [Visite o projeto online] (https://patrickpicon.github.io/Alura_Mochila_de_viagem/)
